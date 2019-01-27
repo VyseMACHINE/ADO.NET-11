@@ -1,0 +1,11 @@
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EFLinqApp.exe.config
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EFLinqApp.exe
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EFLinqApp.pdb
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EntityFramework.dll
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EntityFramework.xml
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\obj\Debug\EFLinqApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\obj\Debug\EFLinqApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\obj\Debug\EFLinqApp.exe
+C:\Users\Ильяс Сабитов\source\EFLinqApp\EFLinqApp\obj\Debug\EFLinqApp.pdb
